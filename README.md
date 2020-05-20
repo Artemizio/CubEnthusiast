@@ -1,1 +1,1 @@
-# CubEnthusiast
+# Cubenthusiast
